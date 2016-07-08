@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\webstormPRJ\Simple-Weather-App\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8469dddb8fc14f500cd5137cabc14f30f5c37513">
+        <dex dex="D:\webstormPRJ\Simple-Weather-App\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_7dec29c3f1f21183617c2e5b6f27e040c32d73f8.jar" />
+    </item>
+
+</items>
