@@ -20,4 +20,62 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 
 // Include all of Ionic
 @import "www/lib/ionic/scss/ionic";
+@import "gradients";
+
+html, body {
+  font-size: 0.8rem;
+}
+
+.slider {
+  height: 88%;
+  text-align: center;
+  //top: 44px;
+  //bottom: 100px;
+  .slider-slides {
+    //padding-top: 44px;
+    //padding-bottom: 40px;
+  }
+
+}
+
+.weather {
+  text-align: center;
+  //background: #000 url('../img/Cloud.png') center no-repeat;
+  //-webkit-background-size: contain;
+  //background-size: contain;
+}
+
+.weather-list {
+  .item {
+    background-color: transparent;
+  }
+  .city {
+    font-size: 4rem;
+    line-height: 4rem;
+    margin-top: 1.5rem;
+    color: #494949;
+  }
+  .description {
+    font-size: 1.5rem;
+  }
+  .weather-icon {
+    font-size: 6rem;
+    line-height: 9rem;
+
+  }
+}
+
+.next-hours-weather {
+
+  height: 10% !important;
+  background-color: transparent;
+}
+
+.next-days-weather {
+  ion-item {
+    background-color: transparent !important;
+  }
+}
+
+@import "responsive";
 

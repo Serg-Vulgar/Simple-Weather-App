@@ -1,0 +1,50 @@
+<ion-header-bar class="bar-stable">
+  <h1 class="title">Weather app</h1>
+  <button class="button button-icon" ng-click="update()"><i class="icon ion-loop"></i></button>
+</ion-header-bar>
+<ion-content ng-class="'time-' + time" class="weather" scroll="false" >
+  <div class="text-right">{{ timeNow | date: 'HH:mm:ss' }}</div>
+
+  <ion-slide-box on-slide-changed="slideHasChanged($index)">
+    <ion-slide>
+      <div class="weather-list" ng-if="weather">
+        <div class="city">{{ weather.name }}, {{ weather.sys.country }}</div>
+        <div>Последнее обновление: {{ lastUpdate | date: 'HH:mm:ss' }}</div>
+        <i class="wi weather-icon" ng-class="'wi-owm-' + weather.weather[0].id"></i>
+        <div class="description">{{ weather.weather[0].description}}</div>
+        <div>{{ weather.main.temp }} &#8451;</div>
+        <div>{{ weather.main.humidity }}</div>
+        <div>{{ weather.wind.speed }}</div>
+      </div>
+    </ion-slide>
+
+    <ion-slide>
+      <ion-content>
+        <ion-list class="next-days-weather">
+          <ion-item ng-repeat="elem in forecast.list">
+            {{ elem.dt * 1000 | date: 'dd HH:mm' }}
+          </ion-item>
+        </ion-list>
+      </ion-content>
+    </ion-slide>
+  </ion-slide-box>
+
+  <ion-footer-bar class="next-hours-weather">
+    <div ng-repeat="elem in forecast.list | limitTo:4" class="col">
+      <div>
+        <i class="wi weather-icon" ng-class="'wi-owm-' + elem.weather[0].id"></i>
+      </div>
+      <div>
+        {{ elem.dt * 1000 | date: 'dd HH:mm' }}
+      </div>
+      <div>
+        {{ elem.main.temp }} &#8451;
+      </div>
+
+    </div>
+  </ion-footer-bar>
+</ion-content>
+
+
+
+

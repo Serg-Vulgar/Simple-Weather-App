@@ -25,17 +25,12 @@
     "cordova-plugin-compat"
   ],
   "cordovaPlatforms": [
-    "ios",
     "android",
     {
       "platform": "android",
       "version": "",
       "locator": "android"
     },
-    {
-      "platform": "ios",
-      "version": "",
-      "locator": "ios"
-    }
+    "ios"
   ]
 }

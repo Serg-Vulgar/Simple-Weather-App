@@ -2,9 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43285561-1b67-47fa-94f5-e95c0404d99f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/responsive.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/build-extras.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build-extras.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-40.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-40.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-40@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-40@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-50.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-50.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-50@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-50@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-60@3x.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-60@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-72.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-72@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-72@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-76.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-76.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-76@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-76@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-small.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-small@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-small@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-small@3x.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon-small@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/AppIcon.appiconset/icon@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-568h@2x~iphone.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-568h@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-667h.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-667h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-736h.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-736h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-Landscape-736h.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-Landscape-736h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-Landscape@2x~ipad.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-Landscape@2x~ipad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-Landscape~ipad.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-Landscape~ipad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-Portrait@2x~ipad.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-Portrait@2x~ipad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-Portrait~ipad.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default-Portrait~ipad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default@2x~iphone.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default~iphone.png" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/Images.xcassets/LaunchImage.launchimage/Default~iphone.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ionic.project" afterPath="$PROJECT_DIR$/ionic.project" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/Api.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/Api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/apple_ios_version" afterPath="$PROJECT_DIR$/platforms/ios/cordova/apple_ios_version" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/apple_osx_version" afterPath="$PROJECT_DIR$/platforms/ios/cordova/apple_osx_version" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/apple_xcode_version" afterPath="$PROJECT_DIR$/platforms/ios/cordova/apple_xcode_version" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/build" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/build-debug.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build-debug.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/build-release.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build-release.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/build.bat" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/build.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/check_reqs" afterPath="$PROJECT_DIR$/platforms/ios/cordova/check_reqs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/check_reqs.bat" afterPath="$PROJECT_DIR$/platforms/ios/cordova/check_reqs.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/clean" afterPath="$PROJECT_DIR$/platforms/ios/cordova/clean" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/clean.bat" afterPath="$PROJECT_DIR$/platforms/ios/cordova/clean.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/defaults.xml" afterPath="$PROJECT_DIR$/platforms/ios/cordova/defaults.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/build.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/build.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/check_reqs.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/check_reqs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/clean.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/clean.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/configMunger.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/configMunger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/copy-www-build-step.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/copy-www-build-step.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-devices" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-devices" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-emulator-images" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-emulator-images" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-started-emulators" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-started-emulators" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/plugman/Plugman.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/plugman/Plugman.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/plugman/pluginHandlers.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/plugman/pluginHandlers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/prepare.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/prepare.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/projectFile.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/projectFile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/run.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/run.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/spawn.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/spawn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/start-emulator" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/start-emulator" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/versions.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/versions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/log" afterPath="$PROJECT_DIR$/platforms/ios/cordova/log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/log.bat" afterPath="$PROJECT_DIR$/platforms/ios/cordova/log.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/loggingHelper.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/loggingHelper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/run" afterPath="$PROJECT_DIR$/platforms/ios/cordova/run" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/run.bat" afterPath="$PROJECT_DIR$/platforms/ios/cordova/run.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/version" afterPath="$PROJECT_DIR$/platforms/ios/cordova/version" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/version.bat" afterPath="$PROJECT_DIR$/platforms/ios/cordova/version.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/ios.json" afterPath="$PROJECT_DIR$/platforms/ios/ios.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/weatherApp/config.xml" afterPath="$PROJECT_DIR$/platforms/ios/weatherApp/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/js/app.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/js/controllers.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/platforms.json" afterPath="$PROJECT_DIR$/platforms/platforms.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ios.json" afterPath="$PROJECT_DIR$/plugins/ios.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/ionic.app.scss" afterPath="$PROJECT_DIR$/scss/ionic.app.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app.js" afterPath="$PROJECT_DIR$/www/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controllers.js" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
@@ -31,8 +108,38 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            <state relative-caret-position="357">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/templates/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ionic.app.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/ionic.app.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsive.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/responsive.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -41,18 +148,18 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            <state relative-caret-position="442">
+              <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+            <state relative-caret-position="615">
+              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,14 +173,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/scss/gradients.scss" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/scss/responsive.scss" />
+        <option value="$PROJECT_DIR$/scss/ionic.app.scss" />
         <option value="$PROJECT_DIR$/www/js/controllers.js" />
+        <option value="$PROJECT_DIR$/www/templates/main.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <gulpfiles>
@@ -81,11 +192,12 @@
         <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
       </GulpfileState>
     </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
-    <option name="y" value="28" />
-    <option name="width" value="1404" />
+    <option name="x" value="679" />
+    <option name="y" value="40" />
+    <option name="width" value="1232" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -113,8 +225,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -133,6 +245,70 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simple-Weather-App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simple-Weather-App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simple-Weather-App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simple-Weather-App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simple-Weather-App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simple-Weather-App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simple-Weather-App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simple-Weather-App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -140,7 +316,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="D:/ionic app/App" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -218,20 +394,31 @@
       <workItem from="1467998913767" duration="2387000" />
       <workItem from="1468003091170" duration="769000" />
       <workItem from="1468004763507" duration="1086000" />
+      <workItem from="1468221572786" duration="16105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6440000" />
+    <option name="totallyTimeSpent" value="22545000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="28" width="1404" height="1056" extended-state="0" />
+    <frame x="679" y="40" width="1232" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21742313" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24772915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987553" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -243,7 +430,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -263,6 +449,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -349,26 +559,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+    <entry file="file://$PROJECT_DIR$/scss/gradients.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        <state relative-caret-position="-176">
+          <caret line="25" column="80" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="357">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/ionic.app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        <state relative-caret-position="615">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
           <folding />
         </state>
       </provider>
