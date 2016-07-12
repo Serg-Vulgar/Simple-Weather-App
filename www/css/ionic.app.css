@@ -9815,34 +9815,34 @@ a.button {
   -webkit-transition-duration: 0s;
   transition-duration: 0s; }
 
-.time-0 {
+.time-00 {
   background-color: #00000c; }
 
-.time-1 {
+.time-01 {
   background: linear-gradient(to bottom, #020111 85%, #191621 100%); }
 
-.time-2 {
+.time-02 {
   background: linear-gradient(to bottom, #020111 60%, #20202c 100%); }
 
-.time-3 {
+.time-03 {
   background: linear-gradient(to bottom, #020111 10%, #3a3a52 100%); }
 
-.time-4 {
+.time-04 {
   background: linear-gradient(to bottom, #20202c 0%, #515175 100%); }
 
-.time-5 {
+.time-05 {
   background: linear-gradient(to bottom, #40405c 0%, #6f71aa 80%, #8a76ab 100%); }
 
-.time-6 {
+.time-06 {
   background: linear-gradient(to bottom, #4a4969 0%, #7072ab 50%, #cd82a0 100%); }
 
-.time-7 {
+.time-07 {
   background: linear-gradient(to bottom, #757abf 0%, #8583be 60%, #eab0d1 100%); }
 
-.time-8 {
+.time-08 {
   background: linear-gradient(to bottom, #82addb 0%, #ebb2b1 100%); }
 
-.time-9 {
+.time-09 {
   background: linear-gradient(to bottom, #94c5f8 1%, #a6e6ff 70%, #b1b5ea 100%); }
 
 .time-10 {
@@ -9891,7 +9891,7 @@ html, body {
   font-size: 0.8rem; }
 
 .slider {
-  height: 88%;
+  height: 78%;
   text-align: center; }
 
 .weather {
@@ -9914,11 +9914,16 @@ html, body {
   line-height: 9rem; }
 
 .next-hours-weather {
-  height: 10% !important;
+  height: 20% !important;
   background-color: transparent; }
+  .next-hours-weather .graphic {
+    padding: 0 !important; }
+  .next-hours-weather #Chart {
+    margin: auto; }
 
-.next-days-weather ion-item {
-  background-color: transparent !important; }
+.next-days-weather li .col {
+  display: block !important;
+  width: auto; }
 
 @media (min-width: 600px) {
   html, body {
