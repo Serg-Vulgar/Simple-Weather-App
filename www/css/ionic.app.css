@@ -9897,21 +9897,19 @@ html, body {
 .weather {
   text-align: center; }
 
-.weather-list .item {
-  background-color: transparent; }
-
-.weather-list .city {
-  font-size: 4rem;
-  line-height: 4rem;
-  margin-top: 1.5rem;
-  color: #494949; }
-
-.weather-list .description {
-  font-size: 1.5rem; }
-
-.weather-list .weather-icon {
-  font-size: 6rem;
-  line-height: 9rem; }
+.weather-list {
+  font-size: 1.5rem;
+  line-height: 2.25rem; }
+  .weather-list .city {
+    font-size: 4rem;
+    line-height: 4rem;
+    margin-top: 1.5rem;
+    color: #494949; }
+  .weather-list .description {
+    font-size: 1.5rem; }
+  .weather-list .weather-icon {
+    font-size: 6rem;
+    line-height: 9rem; }
 
 .next-hours-weather {
   height: 20% !important;
