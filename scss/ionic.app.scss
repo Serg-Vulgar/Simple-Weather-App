@@ -27,13 +27,22 @@ html, body {
 }
 
 .slider {
-  height: 78%;
+  height: 100%;
   text-align: center;
+  padding-bottom: 120px;
   //top: 44px;
   //bottom: 100px;
   .slider-slides {
     //padding-top: 44px;
     //padding-bottom: 40px;
+  }
+
+  .has-footer {
+    bottom: 20px;
+  }
+  .slider-pager {
+    bottom: 125px;
+
   }
 
 }
@@ -48,39 +57,58 @@ html, body {
 .weather-list {
   font-size: 1.5rem;
   line-height: 2.25rem;
-
+  .time {
+    padding: 0;
+    .col {
+      padding: 0;
+    }
+  }
   .city {
-    font-size: 4rem;
-    line-height: 4rem;
-    margin-top: 1.5rem;
+    //font-size: 4rem;
+    //line-height: 4rem;
+    //margin-top: 1.5rem;
     color: #494949;
+    padding: 0;
   }
   .description {
     font-size: 1.5rem;
   }
+  .temp {
+    font-size: 2rem;
+  }
   .weather-icon {
-    font-size: 6rem;
-    line-height: 9rem;
-
+    font-size: 10rem;
+    line-height: 12rem;
   }
 }
 
 .next-hours-weather {
-  height: 20% !important;
+  height: 120px !important;
   background-color: transparent;
   .graphic {
-    padding: 0 !important;
+    padding: 0 10%;
   }
   #Chart {
     margin: auto;
+    overflow: visible;
   }
 }
 
 .next-days-weather {
+
   li {
+    border-bottom: 1px solid #fff;
+    padding: 0;
+    margin: 0;
     .col {
       display: block !important;
       width: auto;
+      padding-left: 0;
+      padding-right: 0;
+    }
+    .weather-icon {
+      font-size: 2rem;
+      line-height: 3rem;
     }
 
   }
